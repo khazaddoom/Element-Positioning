@@ -1,0 +1,16 @@
+.level1 {
+    margin: 100px 250px 500px 500px;
+    border: 1px solid rgb(199, 32, 60);
+    position: relative;
+}
+
+.level2 {
+    position: absolute;
+    top: -25px;
+    background: lightpink;
+}
+
+.lengthy {
+    padding: 50px;
+    height: 2000px;
+}
