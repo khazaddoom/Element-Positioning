@@ -1,9 +1,19 @@
+.navBar {
+    background: lime;
+    height: 120px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
 
-.longDiv {
+.navBar img {
+    height: 120px;
+}
 
-    background: green;
-    padding: 200px;
-    display: inline-block;
+/*above styles good*/
 
-
+.largeText {
+    height: 2000px;
+    margin-top: 125px;
 }
